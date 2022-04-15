@@ -6,8 +6,17 @@ I collaborated with the amazing team at WWC Data Science to put together a works
 
 ## Resources
 - [Workshop Recording](https://www.youtube.com/watch?v=KZbc091mybE)
-- [Workshop Slides]()
-- [Workshop Code Notebook]()
+- [Workshop Slides](slides)
+- [Workshop Code Notebook](code/wwc_workshop.R)
 - [Olympics Dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-27/readme.md)
-- [Tidyverse Cheatsheets]()
 
+
+## Plots
+
+### Faceted Bar Plot
+
+![Screenshot](plots/top_swimming.jpeg)
+
+### Density Plot
+
+![Screenshot](plots/weight_distribution.jpeg)
